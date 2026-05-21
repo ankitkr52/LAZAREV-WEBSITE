@@ -175,7 +175,7 @@ function page6Animations() {
         scrollTrigger: {
             trigger: "#btm6-part2",
             scroller: "#main",
-            // markers:true,
+            markers:true,
             start: "top 80%",
             end: "top 10%",
             scrub: true
